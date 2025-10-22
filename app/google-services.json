@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488126376363",
+    "project_id": "dodamkiosk",
+    "storage_bucket": "dodamkiosk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488126376363:android:2315a6d1bf213704b40aee",
+        "android_client_info": {
+          "package_name": "com.yngyu.dodamkiosk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwSLxGVaryDFrIX18JseY6lUG_6wUp2Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.yngyu.dodamkiosk
+    package com.yngyu.dodamkiosk
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
